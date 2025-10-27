@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/gn4r4/secure-api-lab/issues"
   },
-  "homepage": "https://github.com/gn4r4/secure-api-lab#readme"
+  "homepage": "https://github.com/gn4r4/secure-api-lab#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
